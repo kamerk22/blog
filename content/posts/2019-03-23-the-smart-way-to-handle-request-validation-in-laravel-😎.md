@@ -10,9 +10,9 @@ description: >-
   validate request in Laravel. Handling request validation is very crucial part
   of any application. Laravel has some great feature which deals with this very
   well.
-category: laravel
+category: laravel;kamer
 tags:
-  - laravel
+  - laravel;kamer
 ---
 Get Started
 
